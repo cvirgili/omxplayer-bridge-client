@@ -1,6 +1,6 @@
 {
-    "id": 0,
-    "host": "CSS2GRAFDEV003",
+    "id": 2,
+    "host": "10.64.120.213",
     "port": 3002,
-    "mediapath": "/media/"
+    "mediapath": "/home/pi/Downloads/"
 }
